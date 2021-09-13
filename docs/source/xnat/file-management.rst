@@ -31,7 +31,8 @@ Browser. Select the folder with your patient's name. Do not select any of the
 scans, only select the folder with the patient name.
 
 .. image:: images/patient-browser.png
-    :width: 800
+    :width: 600
+    :align: center
 
 In the Patient Browser window, select Transfer >> Send To and select XNAT.
 Select Send to queue your files to be sent to XNAT. This process can be slow,
@@ -78,7 +79,8 @@ Change the default values to the values below:
 - Local AE Title: DicomBrowser
 
 .. image:: images/send-dicombrowser.png
-    :width: 300
+    :width: 200
+    :align: center
 
 
 

@@ -50,3 +50,7 @@ Why Use XNAT
     /xnat/account
     /xnat/projects
     /xnat/file-management
+
+This documenatation contains information on how to :doc:`create and manage
+accounts </xnat/account>`, :doc:`create projects </xnat/projects>`, and
+:doc:`upload and download data </xnat/projects>`.

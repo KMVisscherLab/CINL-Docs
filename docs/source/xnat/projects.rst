@@ -1,11 +1,10 @@
 XNAT Projects
 ==============
 
-
-Creating Project and Managing Files
------------------------------------
 There are several different methods that you can use to upload files to XNAT. In
-order to make sure your files XNAT project before uploading anything.
+order to make sure your files are properly organized and accessible to you and
+others working on your project, it is important to first create an XNAT project
+before uploading anything. 
 
 .. note::
     All files uploaded to XNAT that you do not assign to a specific project will
@@ -16,7 +15,7 @@ order to make sure your files XNAT project before uploading anything.
 
 
 Creating a New Project
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 On the Home Page, click New >> Project from the dropdown menu to create a new
 project. After selecting the Project Title and an abbreviated version of your
@@ -29,8 +28,9 @@ You can also write a description for your project, assign searchable tags to it,
 or assign your project to a PI. None of these things are necessary, and all can
 be added or changed at a later time.
 
-.. image:: xnat/images/new-project.png
-    :width: 400
+.. image:: images/new-project.png
+    :width: 600
+    :align: center
 
 
 
@@ -83,5 +83,6 @@ Managing User Access
 Users can be added to your project and assigned roles using the Manage User
 Access Dialogue
 
-.. image:: xnat/images/user-management.png
-    :width: 400
+.. image:: images/user-management.png
+    :width: 800
+    :align: center

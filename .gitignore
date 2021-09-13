@@ -1,3 +1,6 @@
+# ignore the build directory
+_build
+
 # ignore vscode info
 .vscode/
 

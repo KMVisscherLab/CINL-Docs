@@ -1,4 +1,4 @@
-User Registration and Accounts in XNAT
+User Registration and Accounts
 ======================================
 
 Permissions in XNAT for accessing and manipulating data are governed through each
@@ -32,8 +32,9 @@ registering for an account when they first visit the site. At UAB, navigate to
 xnat.rc.uab.edu/xnat and click Register on the home page. The following
 registration page will appear
 
-.. image:: xnat/images/registration.png
-    :width: 400
+.. image:: images/registration.png
+    :width: 300
+    :align: center
 
 Fill out all of fields and submit registration. Your account should be ready to
 use.
