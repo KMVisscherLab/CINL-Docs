@@ -24,6 +24,14 @@ account using the following `instructions <https://docs.uabgrid.uab.edu/wiki/Che
 XNAT
 ====================
 
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: XNAT
+
+    /xnat/account
+    /xnat/projects
+    /xnat/file-management
 
 About XNAT
 --------------------
@@ -41,15 +49,6 @@ Why Use XNAT
 - Easy to add collaborators to projects and share data across labs
 - Can act as a data backup
 - Common storage system makes data preprocessing pipelines more generalizeable
-
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-    :caption: XNAT
-
-    /xnat/account
-    /xnat/projects
-    /xnat/file-management
 
 This documenatation contains information on how to :doc:`create and manage
 accounts </xnat/account>`, :doc:`create projects </xnat/projects>`, and
