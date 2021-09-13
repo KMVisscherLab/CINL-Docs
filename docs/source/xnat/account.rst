@@ -1,6 +1,3 @@
-.. _user-registration:
-
-======================================
 User Registration and Accounts in XNAT
 ======================================
 
@@ -15,7 +12,6 @@ work with data in XNAT.
     off, and must be enabled by an Administrator.
 
 
-.. _account-creation:
 
 Account Creation
 ----------------
@@ -27,7 +23,6 @@ There are 3 ways in which a user account can be created:
 3. A new user account can be created by an XNAT administrator
 
 
-.. _registering-your-own-account:
 
 Registering Your Own Account
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -44,7 +39,6 @@ Fill out all of fields and submit registration. Your account should be ready to
 use.
 
 
-.. _invited-to-join:
 
 Being Invited to Join XNAT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -57,7 +51,6 @@ registration page, where you can either log in with an existing account, or
 create a new one. 
 
 
-.. _admin-contact:
 
 Contacting a Site Administrator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,4 +1,6 @@
-.. _project-creation-and-management:
+XNAT Projects
+==============
+
 
 Creating Project and Managing Files
 -----------------------------------
@@ -12,7 +14,6 @@ order to make sure your files XNAT project before uploading anything.
     access to your files and to move them to the correct project.
 
 
-.. _create-project:
 
 Creating a New Project
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -32,7 +33,6 @@ be added or changed at a later time.
     :width: 400
 
 
-.. _permissions:
 
 User Roles and Permissions
 --------------------------
@@ -66,18 +66,17 @@ role has different permissions for data access:
       - 
       - 
 
-- Project Owners can read, insert, modify, and delete anything (and everything)
-associated with your project. They can also add additional users to your project
-and modify the data types associated with your project.
-- Project Members can manage the data in your project. They can read, insert,
-and modify subjects and experiments in your project. They cannot modify the
-project users and data types. 
-- Project Collaborators have read-only access on all of the data in your
-project. They cannot insert or modify data owned by your project. They can
-download your data and use it within their projects. 
+- | Project Owners can read, insert, modify, and delete anything (and everything)
+  | associated with your project. They can also add additional users to your project
+  | and modify the data types associated with your project.
+- | Project Members can manage the data in your project. They can read, insert,
+  | and modify subjects and experiments in your project. They cannot modify the
+  | project users and data types. 
+- | Project Collaborators have read-only access on all of the data in your
+  | project. They cannot insert or modify data owned by your project. They can
+  | download your data and use it within their projects. 
 
 
-.. _managing-users:
 
 Managing User Access
 ^^^^^^^^^^^^^^^^^^^^

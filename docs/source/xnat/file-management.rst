@@ -1,10 +1,10 @@
-.. _uploading-files:
+File Management
+===============
+
 
 Uploading Files
 ---------------
 
-
-.. _uploading-from-scanner:
 
 Uploading from the scanner
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -23,14 +23,14 @@ Confirmation page, locate the **Study Comment** entry under **Requested
 Procedure**. Input "Project: *your project ID*" with no quotes. For example, if
 a Project ID was BRF, you would insert "Project ID: BRF" with no quotes.
 
-.. image:: xnat/images/study-comments.png
+.. image:: images/study-comments.png
     :width: 400
 
 Once you have completed data collection, locate your data in the Patient
 Browser. Select the folder with your patient's name. Do not select any of the
 scans, only select the folder with the patient name.
 
-.. image:: xnat/images/patient-browser.png
+.. image:: images/patient-browser.png
     :width: 400
 
 In the Patient Browser window, select Transfer >> Send To and select XNAT.
@@ -44,8 +44,6 @@ backup.
     Magnetic resonance spectroscopy images cannot be sent to or stored on XNAT.
     These scans will have to be downloaded directly from the scanner.
 
-
-.. _dicom-browser:
 
 DicomBrowser
 ^^^^^^^^^^^^
@@ -68,7 +66,7 @@ long list of tags which represent additional information stored in each image on
 your computer. Find the tag marked Study Description and change the text in the
 column labeled "Value" to the Project ID of your project.
 
-.. image:: xnat/images/change-study-description.png
+.. image:: images/change-study-description.png
     :width: 400
 
 With your files still highlighted, click File >> Send to open up dialogue box.
@@ -79,18 +77,16 @@ Change the default values to the values below:
 - Remote AE Title: XNAT
 - Local AE Title: DicomBrowser
 
-.. image:: xnat/images/send-dicombrowser.png
+.. image:: images/send-dicombrowser.png
     :width: 400
+    :alt: 
 
 
-
-.. _downloading-files:
 
 Downloading Files
 -----------------
 
 
-.. _xnat-downloader:
 
 Using XNAT's Downloader
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -101,7 +97,7 @@ of Java installed on a Java-compatible browser like Internet Explorer or Safari
 In order to begin your download, click your project file and select Download
 Images from the actions bar on the right side of the screen.
 
-.. image:: xnat/images/xnat-downloader-selection.png
+.. image:: images/xnat-downloader-selection.png
     :width: 400
 
 The next page allows you to select imaging sessions and scan types you would
@@ -115,5 +111,5 @@ If the Browse and Start buttons do not appear on this page, Java is not
 functioning on your browser (See Installing Java on the previous page of this
 guide). 
 
-.. image:: xnat/images/select-images.png
+.. image:: images/select-images.png
     :width: 400
