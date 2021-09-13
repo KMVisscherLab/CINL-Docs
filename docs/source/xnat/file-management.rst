@@ -24,14 +24,14 @@ Procedure**. Input "Project: *your project ID*" with no quotes. For example, if
 a Project ID was BRF, you would insert "Project ID: BRF" with no quotes.
 
 .. image:: images/study-comments.png
-    :width: 400
+    :width: 800
 
 Once you have completed data collection, locate your data in the Patient
 Browser. Select the folder with your patient's name. Do not select any of the
 scans, only select the folder with the patient name.
 
 .. image:: images/patient-browser.png
-    :width: 400
+    :width: 800
 
 In the Patient Browser window, select Transfer >> Send To and select XNAT.
 Select Send to queue your files to be sent to XNAT. This process can be slow,
@@ -67,7 +67,7 @@ your computer. Find the tag marked Study Description and change the text in the
 column labeled "Value" to the Project ID of your project.
 
 .. image:: images/change-study-description.png
-    :width: 400
+    :width: 800
 
 With your files still highlighted, click File >> Send to open up dialogue box.
 Change the default values to the values below:
@@ -78,8 +78,7 @@ Change the default values to the values below:
 - Local AE Title: DicomBrowser
 
 .. image:: images/send-dicombrowser.png
-    :width: 400
-    :alt: 
+    :width: 300
 
 
 
@@ -98,7 +97,7 @@ In order to begin your download, click your project file and select Download
 Images from the actions bar on the right side of the screen.
 
 .. image:: images/xnat-downloader-selection.png
-    :width: 400
+    :width: 800
 
 The next page allows you to select imaging sessions and scan types you would
 like to download. Click Submit.
@@ -112,4 +111,4 @@ functioning on your browser (See Installing Java on the previous page of this
 guide). 
 
 .. image:: images/select-images.png
-    :width: 400
+    :width: 800

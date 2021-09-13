@@ -18,9 +18,12 @@ Why Use XNAT
 - Can act as a data backup
 - Common storage system makes data preprocessing pipelines more generalizeable
 
+
 .. toctree::
     :maxdepth: 2
+    :hidden:
+    :caption: XNAT
 
-    /xnat/account
-    /xnat/projects
-    /xnat/file-management
+    /account
+    /projects
+    /file-management

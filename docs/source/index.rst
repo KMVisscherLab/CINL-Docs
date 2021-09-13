@@ -24,7 +24,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    xnat/index.rst
-   bids.rst
